@@ -3,11 +3,12 @@
 <h1 align="center">hey, I'm Dara 👋</h1>
 
 <p align="center">
-  AI engineer · startup founder · 4th-year @ GIKI, Pakistan<br/>
+  AI engineer · startup founder · 3rd-year @ GIKI, Pakistan<br/>
   I build things that actually ship, from model training to prod deployment (Trying my best to make it all work heh)
 </p>
 
 <p align="center">
+  <a href="www.darabodla.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/dara-shikoh-bodla-1b4b19333">LinkedIn</a> ·
   <a href="mailto:darabodla26@gmail.com">Email</a> ·
   <a href="https://github.com/DaraBodla">GitHub</a>
