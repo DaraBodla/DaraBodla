@@ -4,7 +4,7 @@
 
 <p align="center">
   AI engineer · startup founder · 3rd-year @ GIKI, Pakistan<br/>
-  I build things that actually ship, from model training to prod deployment (Trying my best to make it all work heh)
+  "It's not who I am underneath… but what I build that defines me."
 </p>
 
 <p align="center">
