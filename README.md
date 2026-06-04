@@ -26,24 +26,62 @@ Currently deep in deep learning, MLOps, and whatever interesting problem I can g
 
 ## things I've built
 
-**🗣️ Lip Filler — silent speech recognition**  
-3D-CNN (ResNet-18) + MS-TCN + BiLSTM + temporal self-attention on the LRW dataset. 100-class lip reading from silent video. No audio, no cheating.
-
-**🎬 [Movie Revenue Predictor](https://github.com/DaraBodla/movie-revenue-predictor)**  
-Production MLOps platform — XGBoost / LightGBM / CatBoost ensemble, FastAPI backend, Prefect pipelines, Docker, GitHub Actions CI/CD, Streamlit dashboard. Built it solo, end to end.
-
-**🤖 [CPC — WhatsApp Business Automation](https://github.com/DaraBodla/cpc-mvp)**  
-Co-founder & CEO. Web portal, admin dashboard, Meta catalogue integration, billing system, Supabase backend. Real clients, real revenue, real chaos.
-
-**🍽️ [Restaurant Knowledge Graph](https://github.com/DaraBodla/Ontology-Driven-Restaurant-Knowledge-Graph-Reasoning)**  
-OWL ontology with 32 classes, 27,210 RDF triples, Wikidata integration, SPARQL reasoning. Knowledge representation & reasoning that actually does something useful.
-
-**🤟 Sign Language Detection**  
-Faster R-CNN + MobileNetV3-Large FPN on a Roboflow ASL dataset. 87.31% mAP@0.5. Deployed via FastAPI.
-
-**☁️ Bayan AI — serverless lecture pipeline**  
-AWS Step Functions + Lambda + Transcribe + Polly. Upload a lecture, get back structured notes. Fully serverless.
-
+<table>
+<tr>
+<td width="50%" valign="top">
+🗣️ Lip Filler
+Silent speech recognition from video
+Read lips. No audio. 100 word classes on the LRW dataset — 3D-CNN extracts spatial features, MS-TCN handles temporal context, BiLSTM + self-attention closes the gap.
+Show Image
+Show Image
+Show Image
+</td>
+<td width="50%" valign="top">
+🎬 Movie Revenue Predictor
+Production MLOps, end to end
+Ensemble of XGBoost + LightGBM + CatBoost behind a FastAPI. Prefect for orchestration, Docker for containers, GitHub Actions for CI/CD, Streamlit for the dashboard. Solo build.
+Show Image
+Show Image
+Show Image
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🤖 CPC — WhatsApp Automation
+Startup · real clients · live in prod
+Co-founded and run as CEO. Full web portal, admin dashboard, Meta catalogue integration, billing system on Supabase. We automate business conversations at scale.
+Show Image
+Show Image
+Show Image
+</td>
+<td width="50%" valign="top">
+🤟 Sign Language Detection
+87.31% mAP@0.5 on ASL
+Faster R-CNN + MobileNetV3-Large FPN trained on a Roboflow ASL dataset. Real-time inference served through FastAPI. Object detection for accessibility.
+Show Image
+Show Image
+Show Image
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🍽️ Restaurant Knowledge Graph
+27,210 RDF triples. OWL. SPARQL.
+32-class OWL ontology with Wikidata integration and SPARQL reasoning over a full restaurant domain. Knowledge representation that actually reasons, not just stores.
+Show Image
+Show Image
+Show Image
+</td>
+<td width="50%" valign="top">
+☁️ Bayan AI
+Serverless lecture → structured notes
+Upload a lecture, get back clean notes. AWS Step Functions orchestrates Lambda → Transcribe → Translate → Polly → DynamoDB. Zero servers, zero babysitting.
+Show Image
+Show Image
+Show Image
+</td>
+</tr>
+</table>
 ---
 
 ## stack
