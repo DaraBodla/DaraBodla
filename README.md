@@ -73,14 +73,14 @@ AWS Step Functions + Lambda + Transcribe + Polly. Upload a lecture, get back str
 
 ## numbers
 
-![Dara's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaraBodla&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaraBodla&layout=compact&hide_border=true)
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DaraBodla&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaraBodla&theme=transparent" alt="Profile Summary" />
+</p>
 
 <p align="center"><i>if something on here looks interesting, just reach out</i></p>
-
 <!--
 **DaraBodla/DaraBodla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
