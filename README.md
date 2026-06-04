@@ -29,56 +29,74 @@ Currently deep in deep learning, MLOps, and whatever interesting problem I can g
 <table>
 <tr>
 <td width="50%" valign="top">
-🗣️ Lip Filler
-Silent speech recognition from video
-Read lips. No audio. 100 word classes on the LRW dataset — 3D-CNN extracts spatial features, MS-TCN handles temporal context, BiLSTM + self-attention closes the gap.
-Show Image
-Show Image
-Show Image
+<h3>🗣️ Lip Filler</h3>
+<p><strong>Silent speech recognition from video</strong></p>
+<p>Read lips. No audio. 100 word classes on the LRW dataset — 3D-CNN extracts spatial features, MS-TCN handles temporal context, BiLSTM + self-attention closes the gap.</p>
+<p>
+  <code>PyTorch</code> &nbsp;
+  <code>OpenCV</code> &nbsp;
+  <code>3D-CNN</code> &nbsp;
+  <code>BiLSTM</code>
+</p>
 </td>
 <td width="50%" valign="top">
-🎬 Movie Revenue Predictor
-Production MLOps, end to end
-Ensemble of XGBoost + LightGBM + CatBoost behind a FastAPI. Prefect for orchestration, Docker for containers, GitHub Actions for CI/CD, Streamlit for the dashboard. Solo build.
-Show Image
-Show Image
-Show Image
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-🤖 CPC — WhatsApp Automation
-Startup · real clients · live in prod
-Co-founded and run as CEO. Full web portal, admin dashboard, Meta catalogue integration, billing system on Supabase. We automate business conversations at scale.
-Show Image
-Show Image
-Show Image
-</td>
-<td width="50%" valign="top">
-🤟 Sign Language Detection
-87.31% mAP@0.5 on ASL
-Faster R-CNN + MobileNetV3-Large FPN trained on a Roboflow ASL dataset. Real-time inference served through FastAPI. Object detection for accessibility.
-Show Image
-Show Image
-Show Image
+<h3>🎬 <a href="https://github.com/DaraBodla/movie-revenue-predictor">Movie Revenue Predictor</a></h3>
+<p><strong>Production MLOps, end to end</strong></p>
+<p>Ensemble of XGBoost + LightGBM + CatBoost behind a FastAPI. Prefect for orchestration, Docker for containers, GitHub Actions for CI/CD, Streamlit for the dashboard. Solo build.</p>
+<p>
+  <code>FastAPI</code> &nbsp;
+  <code>Docker</code> &nbsp;
+  <code>Prefect</code> &nbsp;
+  <code>GitHub Actions</code>
+</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-🍽️ Restaurant Knowledge Graph
-27,210 RDF triples. OWL. SPARQL.
-32-class OWL ontology with Wikidata integration and SPARQL reasoning over a full restaurant domain. Knowledge representation that actually reasons, not just stores.
-Show Image
-Show Image
-Show Image
+<h3>🤖 <a href="https://github.com/DaraBodla/cpc-mvp">CPC — WhatsApp Automation</a></h3>
+<p><strong>Startup · real clients · live in prod</strong></p>
+<p>Co-founded and run as CEO. Full web portal, admin dashboard, Meta catalogue integration, billing system on Supabase. We automate business conversations at scale.</p>
+<p>
+  <code>Next.js</code> &nbsp;
+  <code>Supabase</code> &nbsp;
+  <code>WhatsApp API</code> &nbsp;
+  <code>TypeScript</code>
+</p>
 </td>
 <td width="50%" valign="top">
-☁️ Bayan AI
-Serverless lecture → structured notes
-Upload a lecture, get back clean notes. AWS Step Functions orchestrates Lambda → Transcribe → Translate → Polly → DynamoDB. Zero servers, zero babysitting.
-Show Image
-Show Image
-Show Image
+<h3>🤟 Sign Language Detection</h3>
+<p><strong>87.31% mAP@0.5 on ASL</strong></p>
+<p>Faster R-CNN + MobileNetV3-Large FPN trained on a Roboflow ASL dataset. Real-time inference served through FastAPI. Object detection for accessibility.</p>
+<p>
+  <code>PyTorch</code> &nbsp;
+  <code>FastAPI</code> &nbsp;
+  <code>Faster R-CNN</code> &nbsp;
+  <code>Roboflow</code>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🍽️ <a href="https://github.com/DaraBodla/restaurant-knowledge-graph">Restaurant Knowledge Graph</a></h3>
+<p><strong>27,210 RDF triples. OWL. SPARQL.</strong></p>
+<p>32-class OWL ontology with Wikidata integration and SPARQL reasoning over a full restaurant domain. Knowledge representation that actually reasons, not just stores.</p>
+<p>
+  <code>OWL</code> &nbsp;
+  <code>RDF</code> &nbsp;
+  <code>SPARQL</code> &nbsp;
+  <code>Streamlit</code>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>☁️ Bayan AI</h3>
+<p><strong>Serverless lecture → structured notes</strong></p>
+<p>Upload a lecture, get back clean notes. AWS Step Functions orchestrates Lambda → Transcribe → Translate → Polly → DynamoDB. Zero servers, zero babysitting.</p>
+<p>
+  <code>AWS Lambda</code> &nbsp;
+  <code>Step Functions</code> &nbsp;
+  <code>Transcribe</code> &nbsp;
+  <code>DynamoDB</code>
+</p>
 </td>
 </tr>
 </table>
