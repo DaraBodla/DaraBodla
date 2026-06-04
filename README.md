@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="www.darabodla.com">Portfolio</a> ·
+  <a href="https://www.darabodla.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/dara-shikoh-bodla-1b4b19333">LinkedIn</a> ·
   <a href="mailto:darabodla26@gmail.com">Email</a> ·
   <a href="https://github.com/DaraBodla">GitHub</a>
