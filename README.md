@@ -4,7 +4,7 @@
 
 <p align="center">
   AI engineer · startup founder · 3rd-year @ GIKI, Pakistan<br/>
-  "It's not who I am underneath… but what I build that defines me."
+  “I’m not saying I’m Batman… but I did push to main.”
 </p>
 
 <p align="center">
