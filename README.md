@@ -88,7 +88,7 @@ Currently deep in deep learning, MLOps, and whatever interesting problem I can g
 </p>
 </td>
 <td width="50%" valign="top">
-<h3>☁️ Bayan AI</h3>
+<h3>☁️<a href="(https://github.com/musa-1410/Bayan"> Bayan AI</h3>
 <p><strong>Serverless lecture → structured notes</strong></p>
 <p>Upload a lecture, get back clean notes. AWS Step Functions orchestrates Lambda → Transcribe → Translate → Polly → DynamoDB. Zero servers, zero babysitting.</p>
 <p>
