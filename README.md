@@ -64,7 +64,7 @@ Currently deep in deep learning, MLOps, and whatever interesting problem I can g
 </p>
 </td>
 <td width="50%" valign="top">
-<h3>🤟 Sign Language Detection</h3>
+<h3>🤟 <a href="https://github.com/DaraBodla/Sign-Language-Detection">Sign Language Detection</a></h3>
 <p><strong>87.31% mAP@0.5 on ASL</strong></p>
 <p>Faster R-CNN + MobileNetV3-Large FPN trained on a Roboflow ASL dataset. Real-time inference served through FastAPI. Object detection for accessibility.</p>
 <p>
