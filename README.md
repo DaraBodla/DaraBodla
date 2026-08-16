@@ -3,7 +3,7 @@
 <h1 align="center">hey, I'm Dara 👋</h1>
 
 <p align="center">
-  AI engineer · startup founder · 3rd-year @ GIKI, Pakistan<br/>
+  AI engineer · startup founder · 4th-year @ GIKI, Pakistan<br/>
   “I’m not saying I’m Batman… but I did push to main.”
 </p>
 
